@@ -1,0 +1,152 @@
+[
+  {
+    "id": "racing-sans-one",
+    "name": "Racing Sans",
+    "vibe": "racing",
+    "file": "racing-sans-one-400-normal.woff"
+  },
+  {
+    "id": "russo-one",
+    "name": "Russo One",
+    "vibe": "racing",
+    "file": "russo-one-400-normal.woff"
+  },
+  {
+    "id": "kanit",
+    "name": "Kanit Black Italic",
+    "vibe": "racing",
+    "file": "kanit-900-italic.woff"
+  },
+  {
+    "id": "exo-2",
+    "name": "Exo 2 Black Italic",
+    "vibe": "racing",
+    "file": "exo-2-900-italic.woff"
+  },
+  {
+    "id": "teko",
+    "name": "Teko Bold",
+    "vibe": "racing",
+    "file": "teko-700-normal.woff"
+  },
+  {
+    "id": "bebas-neue",
+    "name": "Bebas Neue",
+    "vibe": "block",
+    "file": "bebas-neue-400-normal.woff"
+  },
+  {
+    "id": "anton",
+    "name": "Anton",
+    "vibe": "block",
+    "file": "anton-400-normal.woff"
+  },
+  {
+    "id": "staatliches",
+    "name": "Staatliches",
+    "vibe": "block",
+    "file": "staatliches-400-normal.woff"
+  },
+  {
+    "id": "graduate",
+    "name": "Graduate (Varsity)",
+    "vibe": "block",
+    "file": "graduate-400-normal.woff"
+  },
+  {
+    "id": "bungee",
+    "name": "Bungee",
+    "vibe": "block",
+    "file": "bungee-400-normal.woff"
+  },
+  {
+    "id": "orbitron",
+    "name": "Orbitron Black",
+    "vibe": "tech",
+    "file": "orbitron-900-normal.woff"
+  },
+  {
+    "id": "audiowide",
+    "name": "Audiowide",
+    "vibe": "tech",
+    "file": "audiowide-400-normal.woff"
+  },
+  {
+    "id": "black-ops-one",
+    "name": "Black Ops",
+    "vibe": "military",
+    "file": "black-ops-one-400-normal.woff"
+  },
+  {
+    "id": "saira-stencil-one",
+    "name": "Saira Stencil",
+    "vibe": "military",
+    "file": "saira-stencil-one-400-normal.woff"
+  },
+  {
+    "id": "faster-one",
+    "name": "Faster One",
+    "vibe": "speed",
+    "file": "faster-one-400-normal.woff"
+  },
+  {
+    "id": "monoton",
+    "name": "Monoton",
+    "vibe": "speed",
+    "file": "monoton-400-normal.woff"
+  },
+  {
+    "id": "unifrakturmaguntia",
+    "name": "Blackletter",
+    "vibe": "gothic",
+    "file": "unifrakturmaguntia-400-normal.woff"
+  },
+  {
+    "id": "pirata-one",
+    "name": "Pirata One",
+    "vibe": "gothic",
+    "file": "pirata-one-400-normal.woff"
+  },
+  {
+    "id": "metal-mania",
+    "name": "Metal Mania",
+    "vibe": "gothic",
+    "file": "metal-mania-400-normal.woff"
+  },
+  {
+    "id": "rye",
+    "name": "Rye (Western)",
+    "vibe": "western",
+    "file": "rye-400-normal.woff"
+  },
+  {
+    "id": "permanent-marker",
+    "name": "Permanent Marker",
+    "vibe": "hand",
+    "file": "permanent-marker-400-normal.woff"
+  },
+  {
+    "id": "sedgwick-ave-display",
+    "name": "Graffiti",
+    "vibe": "hand",
+    "file": "sedgwick-ave-display-400-normal.woff"
+  },
+  {
+    "id": "bangers",
+    "name": "Bangers",
+    "vibe": "comic",
+    "file": "bangers-400-normal.woff"
+  },
+  {
+    "id": "creepster",
+    "name": "Creepster",
+    "vibe": "horror",
+    "file": "creepster-400-normal.woff"
+  },
+  {
+    "id": "nosifer",
+    "name": "Nosifer (Drip)",
+    "vibe": "horror",
+    "file": "nosifer-400-normal.woff"
+  }
+]
